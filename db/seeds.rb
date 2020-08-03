@@ -23,7 +23,7 @@ drinks =[
     Add your teabags and let it sit for 3 minutes. 
     Fill the rest of the can up with cold water and ice cubes. Again, you can add agave syrup or sugar for additional sweetness. A nice touch is also some sliced fruits or minty herbs!',
     likes: 59,
-    comment: "I am from the south and a grew up making tea just like the reviewers did, and it makes a specific kind of very southern ice tea primed for sweetening. BUT, if you are not from the south or drink more expensive delicate loose tea (not Tetly or Lipton like i have learned to do and don't sweeten it with a cup of sugar. Then these are the perfect methods. The best ice tea, I ever drank was a earl gray with no sugar, and those don't come in giant one gallon bags at the grocery store. So, if you have a couple bags of a specialty tea that you would like to make into a ice tea, use the recipe above. If you have to make a huge amount of tea for a gathering or for people that drink it in gallons of it sweetened a day, in the heat, then you are better off with the method written up by Marnie713. 5 stars because this is a good recipe!",
+    comment: "I am from the south and a grew up making tea just like the reviewers did, and it makes a specific kind of very southern ice tea primed for sweetening!",
     rating: 5
 },
 

@@ -3,7 +3,6 @@ class DrinksController < ApplicationController
     def index
         drinks = Drink.all
 
-        # render json:drinks
         render json:drinks.to_json(include: [:reviews, :users])
     end
 
@@ -13,14 +12,11 @@ class DrinksController < ApplicationController
         render json:drink
     end
 
-    # def edit
-    #     drink = Drink.find(params[:id]) 
-    # end 
 
     def update 
         drink = Drink.find(params[:id])
         drink.update(drink_params)
-        # render json:drink
+     
     end 
 
     private 
